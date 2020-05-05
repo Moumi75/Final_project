@@ -1,0 +1,71 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Windows\Desktop\final Project\Font\flaticon.css
+FileModTime:1588242111
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Windows\Desktop\final Project\Font\Flaticon.eot
+FileModTime:1588220380
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Windows\Desktop\final Project\Font\flaticon.html
+FileModTime:1588220382
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Windows\Desktop\final Project\Font\Flaticon.svg
+FileModTime:1588220380
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Flaticon
+FamilyName:Flaticon
+StyleName:Regular
+FullName:Flaticon
+MenuName:Flaticon
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Windows\Desktop\final Project\Font\Flaticon.ttf
+DataFormat:sfntData
+FileLength:3244
+FileModTime:1588220380
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Windows\Desktop\final Project\Font\Flaticon.woff
+FileModTime:1588220380
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Windows\Desktop\final Project\Font\Flaticon.woff2
+FileModTime:1588220380
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Windows\Desktop\final Project\Font\_flaticon.scss
+FileModTime:1588220382
+%EndFont
+
